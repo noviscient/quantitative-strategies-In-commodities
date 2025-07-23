@@ -1,0 +1,27 @@
+{
+  "title": "Quantitative Strategies In Commodities",
+  "description": "This alpha partner manages quantitative strategies in commodity and commodity-linked futures based on sound market fundamentals that are rigorously tested and confirmed using statistical/machine learning methods.",
+  "metrics": [
+    { "label": "Annualized Return", "value": "11.4%" },
+    { "label": "Annualized Volatility", "value": "7.8%" },
+    { "label": "Sharpe Ratio", "value": "1.25" },
+    { "label": "Winning Months", "value": "50.0%" },
+    { "label": "Max. Drawdown", "value": "9.7%" }
+  ],
+  "strategy": "The strategy exploits fundamental supply and demand imbalances, hedging activity from physical commodity traders, and financial flows from investors that cause commodity prices to experience short-term deviations from intrinsic value.",
+  "general_information": {
+    "Novi Symbol": "NWON_1",
+    "Stage": "Live",
+    "Source": "Track Record",
+    "Inception Date": "October 2017",
+    "Instrument": "Global Commodity",
+    "Location": "New York"
+  },
+  "return_statistics": [
+    { "period": "1M", "best": "3.77", "worst": "-4.71", "avg": "0.04", "mdn": "0.00" },
+    { "period": "3M", "best": "6.54", "worst": "-8.33", "avg": "0.13", "mdn": "0.04" },
+    { "period": "1Y", "best": "9.15", "worst": "-8.86", "avg": "0.54", "mdn": "0.26" },
+    { "period": "3Y", "best": "13.75", "worst": "-6.13", "avg": "1.61", "mdn": "1.10" },
+    { "period": "5Y", "best": "16.52", "worst": "-7.30", "avg": "2.63", "mdn": "1.89" }
+  ]
+}
